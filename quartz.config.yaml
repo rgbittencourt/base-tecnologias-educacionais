@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: pt-BR
-  baseUrl: localhost:8080
+  baseUrl: rgbittencourt.github.io/base-tecnologias-educacionais
   ignorePatterns:
     - private
     - templates
